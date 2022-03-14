@@ -33,7 +33,7 @@ For Neovim, You need a lot of stuff. To see these stuff, Go to the file vimstuff
 </p>
 
 <p align=center>
-The Video[Video](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=1238s)
+The Video (https://www.youtube.com/watch?v=5-aK2_WwrmM&t=1238s)
 </p>
 
 <p align=center>
