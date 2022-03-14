@@ -1,5 +1,5 @@
 <p align=center>
- <img src="/images/logo.png" width=300 height=auto>
+ <img src="/images/logo.png" width=400 height=auto>
 </p>
 My Dot-Files (Mostly same as craftzdog's dot files).
 
