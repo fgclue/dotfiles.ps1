@@ -1,0 +1,7 @@
+vim-plug (https://github.com/junegunn/vim-plug)
+nvim-lsp config (https://github.com/neovim/nvim-lspconfig)
+nvim-TreeSitter (https://github.com/nvim-treesitter/nvim-treesitter) (https://github.com/tree-sitter/tree-sitter)
+nvim-cmp (https://github.com/hrsh7th/nvim-cmp)
+lspaga.nvim (https://github.com/tami5/lspsaga.nvim)
+telescope.nvim (https://github.com/nvim-telescope/telescope.nvim)
+defx.nvim (https://github.com/Shougo/defx.nvim)
